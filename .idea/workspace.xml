@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00d4ccc5-a802-4a8a-bf2a-3b9924f2c163" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/life/sun/community/community/controller/AuthorizeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/life/sun/community/community/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +109,8 @@
       <workItem from="1565182512637" duration="4543000" />
       <workItem from="1565702217384" duration="20000" />
       <workItem from="1565702284997" duration="948000" />
-      <workItem from="1565706098446" duration="33000" />
+      <workItem from="1565706098446" duration="2680000" />
+      <workItem from="1565787752094" duration="3857000" />
     </task>
     <servers />
   </component>
