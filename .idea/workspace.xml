@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00d4ccc5-a802-4a8a-bf2a-3b9924f2c163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/life/sun/community/community/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/life/sun/community/community/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/community.iml" beforeDir="false" afterPath="$PROJECT_DIR$/community.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/life/sun/community/community/controller/AuthorizeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/sun/community/community/controller/AuthorizeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/community.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/sun/community/community/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/sun/community/community/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/sun/community/community/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/sun/community/community/mapper/UserMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/life/sun/community/community/controller/AuthorizeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/life/sun/community/community/controller/AuthorizeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/life/sun/community/community/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/life/sun/community/community/controller/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/life/sun/community/community/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/life/sun/community/community/mapper/UserMapper.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -185,6 +173,7 @@
       <workItem from="1566836702054" duration="1131000" />
       <workItem from="1566919438425" duration="4239000" />
       <workItem from="1567257827441" duration="2135000" />
+      <workItem from="1567304564905" duration="3907000" />
     </task>
     <servers />
   </component>
